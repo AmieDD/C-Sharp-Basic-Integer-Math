@@ -4,19 +4,18 @@ www.amiedd.com
 AmieDD - Code, Cosplay & Code
 
 ```C# runnable
-// { autofold
+
 using System;
 using System.Numerics;
 
-int a = 7;
-int b = 6;
-int c = a + b;
-Console.WriteLine(c);
-
-// { autofold
-    }
+{
+    int a = 7;  
+    int b = 6;
+    int c = a + b;
+    
+    Console.WriteLine(c);
 }
-// }
+
 ```
 
 
