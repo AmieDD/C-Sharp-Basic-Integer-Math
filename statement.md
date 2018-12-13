@@ -7,7 +7,7 @@ AmieDD - Code, Cosplay & Code
 using System;
 using System.Numerics;
 
-public class Number
+public int Number
 {
     int a = 7;  
     int b = 6;
