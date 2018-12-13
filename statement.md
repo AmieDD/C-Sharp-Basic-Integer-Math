@@ -1,18 +1,16 @@
-# Welcome!
+# C# Basic Integer Math
 
-This C# template lets you get started quickly with a simple one-page playground.
+www.amiedd.com
+AmieDD - Code, Cosplay & Code
 
 ```C# runnable
 // { autofold
 using System;
 
-class Hello 
-{
-    static void Main() 
-    {
-// }
-
-Console.WriteLine("Hello World!");
+int a = 7;
+int b = 6;
+int c = a + b;
+Console.WriteLine(c);
 
 // { autofold
     }
@@ -20,6 +18,4 @@ Console.WriteLine("Hello World!");
 // }
 ```
 
-# Advanced usage
 
-If you want a more complex example (external libraries, viewers...), use the [Advanced C# template](https://tech.io/select-repo/386)
