@@ -7,6 +7,7 @@ AmieDD - Code, Cosplay & Code
 // { autofold
 using System;
 using System.Collections.Generic;
+using System.Linq;
 
 int a = 7;
 int b = 6;
