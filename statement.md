@@ -6,6 +6,7 @@ AmieDD - Code, Cosplay & Code
 ```C# runnable
 // { autofold
 using System;
+using System.Collections.Generic;
 
 int a = 7;
 int b = 6;
